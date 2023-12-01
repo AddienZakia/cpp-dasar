@@ -93,7 +93,14 @@ int main(int argc, char const *argv[])
 
     // cout << peserta.id;
 
-    double x = (double)3 / 2;
-    cout << x;
+    // double x = (double)3 / 2;
+    // cout << x;
+
+    // char kalimat[] = "hello worlds";
+    // cout << kalimat[0];
+
+    string x = "hello world";
+    cout << x.length();
+
     return 0;
 }
