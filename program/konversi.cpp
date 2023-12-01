@@ -11,5 +11,6 @@ int main(int argc, char const *argv[])
     cin >> x >> y;
 
     cout << stoi(x) + stoi(y) << endl;
+
     return 0;
 }
