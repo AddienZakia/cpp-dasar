@@ -10,8 +10,6 @@ void print_matriks(int matriks[], int size)
     }
 }
 
-void operasi_matriks(int *matriks_a[], int *matriks_b[], int *matriks_hasil[], int size);
-
 int main(int argc, char const *argv[])
 {
     int panjang_a, panjang_b, panjang_hasil;

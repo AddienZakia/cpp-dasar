@@ -11,15 +11,15 @@ void swap(int *a, int *b)
 
 int main(int argc, char const *argv[])
 {
-    // int a = 10;
-    // int b = 20;
+    int a = 10;
+    int b = 20;
 
     // // sebelum diubah
-    // cout << a << " " << b << endl;
+    cout << a << " " << b << endl;
 
-    // swap(&a, &b);
+    swap(&a, &b);
     // // setelah diubah
-    // cout << a << " " << b;
+    cout << a << " " << b;
 
     return 0;
 }

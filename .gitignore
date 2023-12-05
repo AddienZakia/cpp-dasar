@@ -33,3 +33,6 @@
 
 dist/*.exe
 .vscode
+
+kpp.cpp
+auto.cpp
