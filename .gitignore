@@ -34,5 +34,5 @@
 dist/*.exe
 .vscode
 
-kpp.cpp
+special-task.cpp
 auto.cpp
